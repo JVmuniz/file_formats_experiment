@@ -1,0 +1,15 @@
+{
+    "type":"record",
+    "name":"topLevelRecord",
+    "fields":[
+        {"name":"City","type":["string","null"]},
+        {"name":"Description","type":["string","null"]},
+        {"name":"Year","type":["string","null"]},
+        {"name":"Month","type":["string","null"]},
+        {"name":"Country","type":["string","null"]},
+        {"name":"Economic_Block","type":["string","null"]},
+        {"name":"Dollar_Sold","type":["string","null"]},
+        {"name":"Net_Weight","type":["string","null"]},
+        {"name":"Time","type":["double","null"]}
+    ]
+}
